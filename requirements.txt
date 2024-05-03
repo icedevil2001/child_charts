@@ -1,0 +1,7 @@
+pandas
+plotly
+seaborn 
+loguru
+rich 
+requests
+click

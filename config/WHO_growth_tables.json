@@ -1,0 +1,86 @@
+[
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_0_2.xlsx",
+        "description": "WHO Growth Tables percentile for body mass index for age 0_2 years",
+        "metric": "bmi",
+        "gender": "girls",
+        "age_range": "0_2"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_0_2.xlsx",
+        "description": "WHO Growth Tables percentile for body mass index for age 0_2 years",
+        "metric": "bmi",
+        "gender": "boys",
+        "age_range": "0_2"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_girls_p_2_5.xlsx",
+        "description": "WHO Growth Tables percentile for body mass index for age 2_5 years",
+        "metric": "bmi",
+        "gender": "girls",
+        "age_range": "2_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/body-mass-index-for-age/tab_bmi_boys_p_2_5.xlsx",
+        "description": "WHO Growth Tables percentile for body mass index for age 2_5 years",
+        "metric": "bmi",
+        "gender": "boys",
+        "age_range": "2_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_girls_p_0_5.xlsx",
+        "description": "WHO Growth Tables for head circumference for age 0_5 years",
+        "metric": "hcfa",
+        "gender": "girls",
+        "age_range": "0_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/head-circumference-for-age/tab_hcfa_boys_p_0_5.xlsx",
+        "description": "WHO Growth Tables for head circumference for age 0_5 years",
+        "metric": "hcfa",
+        "gender": "boys",
+        "age_range": "0_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_girls_p_0_5.xlsx",
+        "description": "WHO Growth Tables for weight for age 0_5 years",
+        "metric": "wfa",
+        "gender": "girls",
+        "age_range": "0_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/tab_wfa_boys_p_0_5.xlsx",
+        "description": "WHO Growth Tables for weight for age 0_5 years",
+        "metric": "wfa",
+        "gender": "boys",
+        "age_range": "0_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_0_2.xlsx",
+        "description": "WHO Growth Tables for length/height for age 0_2 years",
+        "metric": "lhfa",
+        "gender": "girls",
+        "age_range": "0_2"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_0_2.xlsx",
+        "description": "WHO Growth Tables for length/height for age 0_2 years",
+        "metric": "lhfa",
+        "gender": "boys",
+        "age_range": "0_2"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_girls_p_2_5.xlsx",
+        "description": "WHO Growth Tables for length/height for age 2_5 years",
+        "metric": "lhfa",
+        "gender": "girls",
+        "age_range": "2_5"
+    },
+    {
+        "url": "https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/tab_lhfa_boys_p_2_5.xlsx",
+        "description": "WHO Growth Tables for length/height for age 2_5 years",
+        "metric": "lhfa",
+        "gender": "boys",
+        "age_range": "2_5"
+    }
+]
